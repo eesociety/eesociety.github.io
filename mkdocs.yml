@@ -29,7 +29,7 @@
 # +--------------------------------------------------------------------------------------------------------+
 site_name: Encouraging Excellence Society
 site_url: https://github.com/eesociety/eesociety.github.io 
-site_description: 'SciVedanta.github.io'
+site_description: 'eesociety.github.io'
 site_author: 'Kamal Choudhary'
 #use_directory_urls: false
 #site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
