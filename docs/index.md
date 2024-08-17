@@ -4,6 +4,13 @@
 
 At Encouraging Excellence Society, our mission is to uplift underprivileged students by providing them with the resources and support they need to succeed academically and personally. We believe every child deserves the opportunity to reach their full potential, regardless of their financial background.
 
+<div align="center">
+
+<img src="./ezgif-3-33bf3b3e18.gif" class="center" alt="Encouraging Excellence Society">
+
+</div>
+
+
 ## Our Approach:
 
 We invite students from underprivileged backgrounds to participate in essay writing on inspiring topics such as "What Do You Want to Be?" Through these essays, we identify talented and motivated individuals who demonstrate a strong desire to achieve their dreams. Based on their performance, we provide essential support including books, stationery, and other study materials to help them excel in their studies.
@@ -35,8 +42,3 @@ Please fill this google form:
 [https://hsesindia.wordpress.com/](https://hsesindia.wordpress.com/)
 
 
-<div align="center">
-
-<img src="./ezgif-3-33bf3b3e18.gif" class="center" alt="Encouraging Excellence Society">
-
-</div>
