@@ -1,4 +1,6 @@
-# Encouraging Excellence Society: Empowering Dreams, Transforming Lives
+# About
+
+`Encouraging Excellence Society: Empowering Dreams, Transforming Lives`
 
 At Encouraging Excellence Society, our mission is to uplift underprivileged students by providing them with the resources and support they need to succeed academically and personally. We believe every child deserves the opportunity to reach their full potential, regardless of their financial background.
 
