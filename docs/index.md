@@ -34,6 +34,7 @@ https://www.facebook.com/eesociety/
 
 https://hsesindia.wordpress.com/
 
+![Encouraging Excellence Society](https://github.com/eesociety/eesociety.github.io/blob/main/eesociety.github.io/photos/ezgif-3-33bf3b3e18.gif){ .image25percent }
 
 <img src="https://github.com/eesociety/eesociety.github.io/blob/main/eesociety.github.io/photos/ezgif-3-33bf3b3e18.gif" alt="Encouraging Excellence Society">
 
