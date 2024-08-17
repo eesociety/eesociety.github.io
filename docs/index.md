@@ -30,7 +30,7 @@ Please fill this google form:
 
 ## External Links:
 
-[https://www.facebook.com/eesociety/[(https://www.facebook.com/eesociety/)
+[https://www.facebook.com/eesociety/](https://www.facebook.com/eesociety/)
 
 [https://hsesindia.wordpress.com/](https://hsesindia.wordpress.com/)
 
