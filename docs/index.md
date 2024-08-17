@@ -30,12 +30,13 @@ Please fill this google form:
 
 ## External Links:
 
-https://www.facebook.com/eesociety/
+[https://www.facebook.com/eesociety/[(https://www.facebook.com/eesociety/)
 
-https://hsesindia.wordpress.com/
-
-
-
-<img src="./ezgif-3-33bf3b3e18.gif" alt="Encouraging Excellence Society">
+[https://hsesindia.wordpress.com/](https://hsesindia.wordpress.com/)
 
 
+<div align="center">
+
+<img src="./ezgif-3-33bf3b3e18.gif" class="center" alt="Encouraging Excellence Society">
+
+</div>
