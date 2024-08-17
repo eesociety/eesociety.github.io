@@ -2,7 +2,7 @@
 
 Welcome to `Global Encouragement Hub`, a comprehensive resource for exploring nonprofit organizations around the world. This website is dedicated to compiling and showcasing a diverse array of nonprofits, spanning every continent and a multitude of causes—from education and healthcare to environmental conservation and human rights. Whether you're looking to support a specific cause, volunteer your time, or simply learn more about the incredible work being done globally, Global Encouragement Hub provides you with the information you need. Explore our curated lists, discover organizations making a difference, and find ways to get involved in creating a better world.
 
-To add new entries edit [this page](https://github.com/eesociety/eesociety.github.io/edit/main/docs/compilation.md) and send a Pull request on GitHub.
+To edit [this page](https://github.com/eesociety/eesociety.github.io/edit/main/docs/compilation.md) and send a Pull request on GitHub or email [eesociety2014@gmail.com](eesociety2014@gmail.com).
 
 ## India
 
