@@ -2,7 +2,15 @@
 
 `Encouraging Excellence Society: Empowering Dreams, Transforming Lives`
 
-At Encouraging Excellence Society, our mission is to uplift underprivileged students by providing them with the resources and support they need to succeed academically and personally. We believe every child deserves the opportunity to reach their full potential, regardless of their financial background.
+Our motto is `mutual respect and mutual encouragement`
+
+At Encouraging Excellence Society, our mission is to:
+
+1. <b>Uplift underprivileged students</b> by providing them with the necessary resources and support to succeed both academically and personally.
+2. <b>Organize and connect resources</b> for deserving children, ensuring they have access to the opportunities they need to thrive.
+
+
+We believe that every child deserves the chance to reach their full potential, regardless of their financial background.
 
 <div align="center">
 
