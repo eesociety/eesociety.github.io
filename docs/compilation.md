@@ -8,7 +8,7 @@ To add/modify entries, edit [this page](https://github.com/eesociety/eesociety.g
 
 | **No.** | **Organization**                             | **Focus Area**                                                                                           | **Website**                                      |
 |---------|----------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1       | Lions Clubs International (India)            | Vision care, health, hunger, disaster relief                                                              | [http://www.lionsindia.in/](http://www.lionsindia.in/)     |
+| 1       | Lions Clubs International (India)            | Vision care, health, hunger, disaster relief                                                              | [http://www.lionsindia.in/](http://www.lionsindia.org)     |
 | 2       | Round Table India                            | Community service, education, healthcare                                                                  | [https://www.roundtableindia.org/service/](https://www.roundtableindia.org/service/) |
 | 3       | Inner Wheel India                            | Women’s voluntary services, education, health, community development                                      | [innerwheelindia.com](https://www.innerwheelindia.com) |
 | 4       | Rotary Clubs of India                      | Leadership development, community service                                                                 | [https://www.rotary.org/en/get-involved/rotaract-clubs](https://www.rotary.org/en/get-involved/rotaract-clubs) |
